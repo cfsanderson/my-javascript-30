@@ -1,4 +1,5 @@
 {
   "editor.tabSize": 2,
   "editor.fontFamily": "Cousine for Powerline, Operator Mono, Hack",
+  "view-in-browser.customBrowser": "chrome"
 }
